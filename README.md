@@ -1,30 +1,15 @@
-# Animated landing page
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ihasselx-gmailcoms-projects/v0-animated-landing-page)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/iPxsImeDZ8O)
+# Heypage by hasselx
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+Create your free account and start building your link page today.
 
-## Deployment
 
-Your project is live at:
+## Home page
 
-**[https://vercel.com/ihasselx-gmailcoms-projects/v0-animated-landing-page](https://vercel.com/ihasselx-gmailcoms-projects/v0-animated-landing-page)**
+<img width="1899" height="873" alt="image" src="https://github.com/user-attachments/assets/8b1129a7-371f-44d1-a1ce-883c9a49cef6" />
 
-## Build your app
 
-Continue building your app on:
+**https://heypage.vercel.app/**
 
-**[https://v0.app/chat/iPxsImeDZ8O](https://v0.app/chat/iPxsImeDZ8O)**
 
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
