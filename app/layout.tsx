@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "heypage",
   description: "Create your personal link page and share it with the world",
   generator: "v0.app",
+  icons: {
+    icon: "/heypageicon.svg", // <-- Add this line
+  },
 }
 
 export default function RootLayout({
