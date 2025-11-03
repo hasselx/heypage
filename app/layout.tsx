@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "Create your personal link page and share it with the world",
   generator: "v0.app",
   icons: {
-    icon: "/heypageicon.svg", // <-- Add this line
+    icon: "/hpicon.svg", // <-- Add this line
   },
 }
 
